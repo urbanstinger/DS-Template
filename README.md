@@ -1,3 +1,12 @@
+MY FRAMEWORK
+
+1. Green Button: **Use this template** > Create a new repository > Name the new project
+2. copy URL > open terminal on root project folder where new project folder is to be created
+3. run terminal: git clone url
+4. close terminal and open terminal inside project folder
+5. run terminal: code .
+
+
 # Data Project Template
 
 <a target="_blank" href="https://datalumina.com/">
