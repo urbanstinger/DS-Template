@@ -5,7 +5,7 @@
 </a>
 
 ## Cookiecutter Data Science
-This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit the needs of Datalumina and made available as a GitHub template.
+This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit my needs for project folder structure and made available as a GitHub template.
 
 ## Adjusting .gitignore
 
