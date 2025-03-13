@@ -1,0 +1,16 @@
+name: ml-project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.4
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+    - category_encoders
